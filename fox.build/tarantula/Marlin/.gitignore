@@ -1,0 +1,4 @@
+*
+!.gitignore
+!Configuration*.h
+!_Bootscreen.h
